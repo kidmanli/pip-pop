@@ -1,0 +1,159 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5 (untitled)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\Administrator\PycharmProjects\untitled\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1167705309" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (mine.py)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\Administrator\PycharmProjects\mine.py\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/mine.py/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/mine.py/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/mine.py/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/mine.py/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1013307604" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/mine.py" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (s14)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\Administrator\PycharmProjects\s14\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/s14/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/s14/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/s14/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/s14/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1581769086" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/s14" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (kidman)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\Administrator\PycharmProjects\kidman\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/kidman/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/kidman/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/kidman/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/kidman/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1853605428" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/kidman" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (django)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\Administrator\PycharmProjects\django\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/django/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/django/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/django/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/django/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1404983469" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
